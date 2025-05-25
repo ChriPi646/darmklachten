@@ -1,3 +1,3 @@
-# Darmklachten App
+# Digestica
 
-Klaar voor Vercel. Gebruik `pages/index.js` als startpagina.
+Klaar voor Vercel. Startpagina: `pages/index.js`
