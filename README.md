@@ -1,3 +1,3 @@
-# Digestica
+# Dr. Digle App
 
-Klaar voor Vercel. Startpagina: `pages/index.js`
+Symptoomanalyse en begeleiding bij darmklachten.
