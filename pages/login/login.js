@@ -1,8 +1,8 @@
-export default function Login() {
+export default function Pagina() {
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial' }}>
-      <h1>Loginpagina</h1>
-      <p>Placeholder voor loginformulier.</p>
+      <img src="/logo_app.png" alt="Logo" width="120" style={{ marginBottom: '1rem' }} />
+      <h1>Deze pagina is in opbouw.</h1>
     </main>
   );
 }

@@ -1,8 +1,8 @@
-export default function SiboPlan() {
+export default function Pagina() {
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial' }}>
-      <h1>SIBO Plan</h1>
-      <p>Deze pagina bevat binnenkort je SIBO FODMAP stappenplan.</p>
+      <img src="/logo_app.png" alt="Logo" width="120" style={{ marginBottom: '1rem' }} />
+      <h1>Deze pagina is in opbouw.</h1>
     </main>
   );
 }

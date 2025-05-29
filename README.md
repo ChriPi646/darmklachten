@@ -1,3 +1,2 @@
-# Dr. Digle
-
-Medische app voor buikklachtenanalyse.
+# Dr. Digle App
+App met logo in layout
