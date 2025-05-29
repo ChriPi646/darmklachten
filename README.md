@@ -1,3 +1,3 @@
 # Dr. Digle
 
-Correcte flat structuur
+Met placeholders voor alle lege pagina's.
