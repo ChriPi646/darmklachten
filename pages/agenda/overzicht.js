@@ -1,3 +1,1 @@
-export default function Placeholder() {
-  return <div>Deze pagina is in opbouw.</div>;
-}
+export default function Overzicht() { return <main><h1>Agenda Overzicht</h1><p>Placeholder</p></main>; }

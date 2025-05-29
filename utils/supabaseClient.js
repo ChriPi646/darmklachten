@@ -1,1 +1,1 @@
-export const supabase = {};
+export const supabase = { placeholder: true };

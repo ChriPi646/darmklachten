@@ -14,8 +14,5 @@
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.5.28",
     "@supabase/supabase-js": "^2.39.6"
-  },
-  "devDependencies": {
-    "next": "14.1.0"
   }
 }

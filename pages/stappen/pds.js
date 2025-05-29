@@ -1,3 +1,1 @@
-export default function Placeholder() {
-  return <div>Deze pagina is in opbouw.</div>;
-}
+export default function PDS() { return <main><h1>PDS Stappenplan</h1><p>Placeholder</p></main>; }

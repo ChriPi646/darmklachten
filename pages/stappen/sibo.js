@@ -1,3 +1,1 @@
-export default function Placeholder() {
-  return <div>Deze pagina is in opbouw.</div>;
-}
+export default function SiboSteps() { return <main><h1>SIBO Stappenplan</h1><p>Placeholder</p></main>; }
