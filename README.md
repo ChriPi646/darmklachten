@@ -1,3 +1,3 @@
-# Dr. Digle App
+# Dr. Digle
 
-Symptoomanalyse en begeleiding bij darmklachten.
+AI-ondersteunde begeleiding bij buikklachten.
