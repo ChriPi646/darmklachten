@@ -1,14 +1,12 @@
 export default function Login() {
   return (
-    <main style={ padding: '2rem', fontFamily: 'Arial' }>
-      <nav style={{ marginBottom: '1rem' }}>
-  <a href="/">Home</a> | <a href="/vragen">Vragenlijst</a> | <a href="/login/login">Login</a>
-</nav>
-      <h1>Login</h1>
+    <main style={{ padding: '2rem', fontFamily: 'Arial' }}>
+      <img src="/logo.png" alt="Dr. Digle logo" width="100" />
+      <h1>Loginpagina</h1>
       <form>
-        <label>Email:<br/><input type="email" name="email" /></label><br/><br/>
-        <label>Wachtwoord:<br/><input type="password" name="password" /></label><br/><br/>
-        <button type="submit">Inloggen</button>
+        <input type="email" placeholder="Email" /><br />
+        <input type="password" placeholder="Wachtwoord" /><br />
+        <button type="submit">Login</button>
       </form>
     </main>
   );

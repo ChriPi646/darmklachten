@@ -1,1 +1,2 @@
-# Dr. Digle - buikklachten analyse app
+# Dr. Digle
+Een medische zelfanalyse-app voor buikklachten.
