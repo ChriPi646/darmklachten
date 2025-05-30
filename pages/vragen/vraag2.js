@@ -1,1 +1,1 @@
-// Zelfde structuur - volgende vraag
+// Placeholder voor vraag 2

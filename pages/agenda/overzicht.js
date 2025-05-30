@@ -1,1 +1,1 @@
-// Placeholder voor agenda overzicht
+// Placeholder voor overzicht agenda

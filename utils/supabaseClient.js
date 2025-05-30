@@ -1,1 +1,1 @@
-// Supabase configuratie
+export const supabase = {};

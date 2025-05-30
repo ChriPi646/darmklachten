@@ -1,1 +1,1 @@
-// Placeholder info over fibromyalgie
+// Placeholder voor info fibromyalgie

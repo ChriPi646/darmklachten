@@ -1,1 +1,1 @@
-// Toont inschatting en doorverwijzing naar stappenplan
+// Placeholder voor resultatenpagina

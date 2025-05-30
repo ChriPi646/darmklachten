@@ -1,1 +1,1 @@
-// Placeholder voor SIBO plan
+// Placeholder voor stappenplan SIBO

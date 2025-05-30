@@ -1,3 +1,1 @@
-# Dr. Digle
-
-Intuïtieve app voor buikklachtanalyse.
+# Dr. Digle - buikklachten analyse app
