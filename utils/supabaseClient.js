@@ -1,1 +1,1 @@
-// Placeholder voor Supabase client
+export const supabase = {}; // Placeholder

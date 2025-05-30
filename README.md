@@ -1,2 +1,2 @@
-# Dr. Digle
-Een medische zelfanalyse-app voor buikklachten.
+# Dr. Digle App
+Volledige projectstructuur.

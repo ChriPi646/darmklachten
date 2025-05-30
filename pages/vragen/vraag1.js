@@ -1,9 +1,8 @@
 export default function Vraag1() {
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial' }}>
-      <h2>Heb je regelmatig een opgeblazen buik?</h2>
-      <button>Ja</button>
-      <button>Nee</button>
+      <h1>Vraag 1</h1>
+      <p>Deze pagina is in opbouw.</p>
     </main>
   );
 }
