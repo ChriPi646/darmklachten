@@ -1,0 +1,1 @@
+// Zelfde structuur - volgende vraag

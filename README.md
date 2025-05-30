@@ -1,2 +1,3 @@
-# Dr. Digle App
-App met logo in layout
+# Dr. Digle
+
+Intuïtieve app voor buikklachtanalyse.
