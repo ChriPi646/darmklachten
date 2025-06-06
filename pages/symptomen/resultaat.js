@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react';
 import { symptomenmatrix } from '../../data/symptomenmatrix';
 import jsPDF from 'jspdf';
 
+import 'jspdf-autotable';
+
 export default function SymptomenResultaat() {
   const [scores, setScores] = useState({});
   const [logoLoaded, setLogoLoaded] = useState(false);
