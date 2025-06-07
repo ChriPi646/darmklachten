@@ -1,2 +1,1 @@
-# Dr. Digle App
-Volledige projectstructuur.
+# The Belly Dr. project (samengevoegde versie)
